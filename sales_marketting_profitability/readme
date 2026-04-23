@@ -1,0 +1,85 @@
+:
+
+📊 FMCG Sales, Marketing & Profitability Dashboard (2023–2025)
+🔷 Project Overview
+
+This project presents a comprehensive Tableau dashboard analyzing FMCG (Fast-Moving Consumer Goods) data from 2023 to 2025. The goal is to uncover actionable insights into sales performance, profitability, marketing efficiency, and operational costs.
+
+The dashboard is designed to support data-driven decision-making for business stakeholders by transforming raw data into interactive visual insights.
+
+🎯 Objectives
+Analyze overall sales and revenue trends
+Evaluate profitability across regions, brands, and categories
+Measure marketing effectiveness (ROI)
+Identify cost drivers and inefficiencies
+Highlight top-performing products and channels
+📁 Dataset Description
+
+The dataset contains FMCG business metrics including:
+Sales (Gross & Net Revenue)
+Profit and Profit Margin
+Units Sold
+Marketing Spend
+Discounts
+Cost of Goods Sold (COGS)
+Logistics Cost
+Product, Brand, and Category details
+Sales Channels and Promotion Types
+Time-based data (Date, Year, Month)
+
+📊 Dashboard Features
+🔹 Executive Overview
+Total Sales
+Net Revenue
+Total Profit
+Profit Margin
+Units Sold
+
+🔹 Sales Analysis
+Sales trend over time (Monthly/Yearly)
+Regional sales comparison
+Category-wise performance
+
+🔹 Profitability Insights
+Profit by brand and category
+Profit margin distribution
+High vs low performing products
+
+🔹 Marketing Performance
+Marketing Spend vs Revenue
+ROI by Promotion Type
+Impact of discounts on sales
+
+🔹 Operational Analysis
+Logistics cost by region
+Cost vs profit comparison
+Channel performance insights
+
+⚙️ Tools & Technologies
+Tableau – Data visualization & dashboard development
+Excel/CSV – Data source
+DAX (optional) – Used for advanced calculations (if replicated in Power BI)
+
+📈 Key Insights
+Certain regions consistently outperform others in both sales and profit.
+High marketing spend does not always guarantee higher ROI.
+Some product categories generate strong revenue but lower profit margins.
+Logistics and operational costs significantly impact profitability.
+
+🚀 How to Use
+Download the .twbx Tableau file from this repository
+Open using Tableau Desktop / Tableau Public
+Interact with filters and visuals to explore insights
+
+💡 Future Improvements
+Add predictive analytics (sales forecasting)
+Integrate real-time data sources
+Enhance dashboard storytelling with advanced KPIs
+
+👤 Author
+
+Rakibul Hasan
+Aspiring Data Analyst | Interested in Data Analytics, Machine Learning & Business Intelligence
+
+⭐ If You Like This Project
+Give it a ⭐ on GitHub and feel free to connect!
